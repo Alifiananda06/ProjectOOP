@@ -1,4 +1,4 @@
-# PROJECT UAS OOP
+# PROJECT UAS
 # Gallery Photo
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
