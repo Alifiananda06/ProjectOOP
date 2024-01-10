@@ -1,7 +1,10 @@
 # PROJECT UAS OOP
 # Gallery Photo
-## Kelompok 8
-### - Muhamad raehan (312210266) 
-### - Alifia ananda putri (312210168) 
-### - Faiz dzaki ramadhani (312210223) 
-### - Muhamad abdul anas (312210269) 
+
+|**Nama**|**NIM**|**Kelas**|**Matkul**|
+|----|---|-----|------|
+|ALIFIA ANANDA PUTRI|312210168|TI.22.A2|Pemograman Web 1|
+|ALIFIA ANANDA PUTRI|312210168|TI.22.A2|Pemograman Web 1|
+|ALIFIA ANANDA PUTRI|312210168|TI.22.A2|Pemograman Web 1|
+|ALIFIA ANANDA PUTRI|312210168|TI.22.A2|Pemograman Web 1|
+
