@@ -11,10 +11,19 @@
 
 # Installation
 
-Git clone
+ ```bash
+  Git clone https://github.com/namagithub/namaproject.git
+   ```
 
+ ```bash
 Python manage.py runserver
+ ```
 
+ ```bash
 Dapat diakases di halaman web berikut http://127.0.0.1:8000/ 
+ ```
+  
+ 
+
 
 
